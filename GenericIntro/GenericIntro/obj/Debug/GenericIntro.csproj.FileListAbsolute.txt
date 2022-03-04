@@ -1,0 +1,8 @@
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\obj\Debug\GenericIntro.csproj.AssemblyReference.cache
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\obj\Debug\GenericIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\obj\Debug\GenericIntro.csproj.CoreCompileInputs.cache
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\bin\Debug\GenericIntro.exe.config
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\bin\Debug\GenericIntro.exe
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\bin\Debug\GenericIntro.pdb
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\obj\Debug\GenericIntro.exe
+C:\Users\rappe\source\repos\GenericIntro\GenericIntro\obj\Debug\GenericIntro.pdb

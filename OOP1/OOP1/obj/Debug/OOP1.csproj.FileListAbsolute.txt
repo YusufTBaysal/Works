@@ -1,0 +1,8 @@
+C:\Users\rappe\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\rappe\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\rappe\source\repos\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\rappe\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\rappe\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rappe\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\rappe\source\repos\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\rappe\source\repos\OOP1\OOP1\obj\Debug\OOP1.pdb
