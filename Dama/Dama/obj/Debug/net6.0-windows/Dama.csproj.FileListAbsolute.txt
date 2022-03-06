@@ -1,0 +1,17 @@
+C:\Users\rappe\source\repos\Dama\Dama\bin\Debug\net6.0-windows\Dama.exe
+C:\Users\rappe\source\repos\Dama\Dama\bin\Debug\net6.0-windows\Dama.deps.json
+C:\Users\rappe\source\repos\Dama\Dama\bin\Debug\net6.0-windows\Dama.runtimeconfig.json
+C:\Users\rappe\source\repos\Dama\Dama\bin\Debug\net6.0-windows\Dama.dll
+C:\Users\rappe\source\repos\Dama\Dama\bin\Debug\net6.0-windows\Dama.pdb
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.csproj.AssemblyReference.cache
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.Form1.resources
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.csproj.GenerateResource.cache
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.AssemblyInfoInputs.cache
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.AssemblyInfo.cs
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.csproj.CoreCompileInputs.cache
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.dll
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\refint\Dama.dll
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.pdb
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\Dama.genruntimeconfig.cache
+C:\Users\rappe\source\repos\Dama\Dama\obj\Debug\net6.0-windows\ref\Dama.dll
